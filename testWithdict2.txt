@@ -1,0 +1,18 @@
+Welcome to the csc143 anagram solver.
+
+What is the name of the dictionary file? 
+phrase to scramble (return to quit)? Max words to include (0 for no max)? [at, felt, society]
+[at, left, society]
+[at, society, felt]
+[at, society, left]
+[felt, at, society]
+[felt, society, at]
+[left, at, society]
+[left, society, at]
+[society, at, felt]
+[society, at, left]
+[society, felt, at]
+[society, left, at]
+
+
+phrase to scramble (return to quit)? 

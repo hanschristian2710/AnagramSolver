@@ -1,0 +1,22 @@
+Welcome to the csc143 anagram solver.
+
+What is the name of the dictionary file? 
+phrase to scramble (return to quit)? Max words to include (0 for no max)? [ahead, drown]
+[don, warhead]
+[drown, ahead]
+[hadron, wade]
+[head, onward]
+[nod, warhead]
+[onward, head]
+[wade, hadron]
+[warhead, don]
+[warhead, nod]
+
+
+phrase to scramble (return to quit)? Max words to include (0 for no max)? [creaky, swell]
+[seller, wacky]
+[swell, creaky]
+[wacky, seller]
+
+
+phrase to scramble (return to quit)? 

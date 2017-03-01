@@ -1,0 +1,22 @@
+Welcome to the csc143 anagram solver.
+
+What is the name of the dictionary file? 
+phrase to scramble (return to quit)? Max words to include (0 for no max)? [huh, zag, cove]
+[huh, cove, zag]
+[zag, huh, cove]
+[zag, cove, huh]
+[cove, huh, zag]
+[cove, zag, huh]
+
+phrase to scramble (return to quit)? Max words to include (0 for no max)? [don, warhead]
+[nod, warhead]
+[head, onward]
+[wade, hadron]
+[ahead, drown]
+[drown, ahead]
+[hadron, wade]
+[onward, head]
+[warhead, don]
+[warhead, nod]
+
+phrase to scramble (return to quit)? 
